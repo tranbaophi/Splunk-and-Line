@@ -1,0 +1,3 @@
+23/07/2020 15:27:17  ---  {'type': 'sticker', 'id': '12369373790863', 'stickerId': '52002743', 'packageId': '11537', 'stickerResourceType': 'ANIMATION'}
+23/07/2020 15:27:25  ---  {'type': 'text', 'id': '12369374457910', 'text': 'Phitb'}
+23/07/2020 16:11:11  ---  {'type': 'sticker', 'id': '12369589305803', 'stickerId': '52002734', 'packageId': '11537', 'stickerResourceType': 'ANIMATION'}
